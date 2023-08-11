@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-counting-stars",
+    "slug": "react-native-counting-stars",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-counting-stars"
+}
